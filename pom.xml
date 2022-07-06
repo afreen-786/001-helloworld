@@ -11,7 +11,7 @@
 	<groupId>com.capgemini.example</groupId>
 	<artifactId>001-hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>JAR</packaging>
 	<name>001-hello-world</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
